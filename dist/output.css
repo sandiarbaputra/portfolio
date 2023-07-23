@@ -707,6 +707,14 @@ video {
   margin-top: 1.25rem;
 }
 
+.mb-32 {
+  margin-bottom: 8rem;
+}
+
+.mt-64 {
+  margin-top: 16rem;
+}
+
 .block {
   display: block;
 }
